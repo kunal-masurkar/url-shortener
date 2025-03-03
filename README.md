@@ -109,7 +109,7 @@ This project is **open-source** and available under the **MIT License**.
 
 ## 💡 Author
 👨‍💻 Developed by **Kunal Masurkar**  
-🌐 [GitHub](https://github.com/KunalMasurkar) | 🔗 [LinkedIn](https://linkedin.com/in/kunal-masurkar-8494a123a)
+🌐 [GitHub](https://github.com/kunal-masurkar) | 🔗 [LinkedIn](https://linkedin.com/in/kunal-masurkar-8494a123a)
 
 ---
 
